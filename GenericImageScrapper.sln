@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericImageScrapper", "GenericImageScrapper\GenericImageScrapper.csproj", "{32243A09-A40E-4660-92A2-5F86F056FF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32243A09-A40E-4660-92A2-5F86F056FF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32243A09-A40E-4660-92A2-5F86F056FF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32243A09-A40E-4660-92A2-5F86F056FF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32243A09-A40E-4660-92A2-5F86F056FF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DBA326-A5A9-446E-8C0C-C53506BACD41}
+	EndGlobalSection
+EndGlobal
