@@ -23,3 +23,6 @@ a generic parallel image scrapper with support of multiple regex format to extra
 - zip the findings folder to save space or compress and write to archieve directly (depends on the use case)
 
 this was hacked together in 2 hours to help in a different project, could use some development but for now, it does its job. **its simple yet very efficient.**
+
+test run result
+![test run result](https://personal-cdn.s3.amazonaws.com/imgs/test+run.PNG "test run result")
